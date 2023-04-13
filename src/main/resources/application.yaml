@@ -5,3 +5,5 @@ server:
     key-store-type: PKCS12
     key-store: classpath:certificate.p12
     key-store-password: 1234
+    
+#debug: true
